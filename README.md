@@ -1,2 +1,2 @@
 # Unity_SmartTerrain
-AR experiments with Vufiria Smart Terrain
+AR experiments with Vuforia Smart Terrain
